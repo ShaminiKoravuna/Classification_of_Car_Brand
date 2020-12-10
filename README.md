@@ -2,6 +2,9 @@
 ## Dependencies
 
 Python 
+
 tensorflow
+
 matplotlib
+
 numpy
