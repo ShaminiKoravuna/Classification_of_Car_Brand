@@ -3,8 +3,8 @@
 
 Python 
 
-tensorflow
+Tensorflow
 
-matplotlib
+Matplotlib
 
 numpy
