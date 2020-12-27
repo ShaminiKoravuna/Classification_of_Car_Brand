@@ -7,25 +7,16 @@ Trained model: https://drive.google.com/drive/folders/1HXAJUELObpp06H9VGNmopPiBo
 Accuracy: 83.94%
 
 ## Dependencies
-
-Python 
-
-Tensorflow
-
-Matplotlib
-
-numpy
-
-OpenCV
-
-Keras
-
-H5py
-
-SKLearn
+* Python 
+* Tensorflow
+* Matplotlib
+* numpy
+* OpenCV
+* Keras
+* H5py
+* SKLearn
 
 
 ## Usage
-Training the model: python train_model.py
-
-Testing the model: python test.py
+* Training the model: python train_model.py
+* Testing the model: python test.py
