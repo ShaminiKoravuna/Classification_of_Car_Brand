@@ -4,6 +4,8 @@ Dataset : https://www.kaggle.com/jessicali9530/stanford-cars-dataset
 
 Trained model: https://drive.google.com/drive/folders/1HXAJUELObpp06H9VGNmopPiBopmHGjkb
 
+Accuracy: 83.94%
+
 ## Dependencies
 
 Python 
