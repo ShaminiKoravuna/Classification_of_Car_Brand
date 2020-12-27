@@ -21,3 +21,8 @@ Keras
 H5py
 
 SKLearn
+
+
+## Usage
+Training the model: python train_model.py
+Testing the model: python test.py
